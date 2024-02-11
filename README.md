@@ -31,8 +31,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-  ![image](https://github.com/eddieybarra/osticket-prereqs/assets/18490891/cac961c6-120c-4f05-92fb-447cc8aeac8b)
+<img src="![image](https://github.com/eddieybarra/osticket-prereqs/assets/18490891/326cd8ea-2665-4511-bb41-1463b85fbd48)
+"/>
 
 </p>
 <p>
